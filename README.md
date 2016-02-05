@@ -1,5 +1,11 @@
 # Feature
 
+[![Build Status](https://travis-ci.org/SpartzInc/Feature.svg?branch=master)](https://travis-ci.org/SpartzInc/Feature)
+[![Latest Stable Version](https://poser.pugx.org/dose/feature/v/stable)](https://packagist.org/packages/dose/feature)
+[![Total Downloads](https://poser.pugx.org/dose/feature/downloads)](https://packagist.org/packages/dose/feature)
+[![Latest Unstable Version](https://poser.pugx.org/dose/feature/v/unstable)](https://packagist.org/packages/dose/feature)
+[![License](https://poser.pugx.org/dose/feature/license)](https://packagist.org/packages/dose/feature)
+
 Feature is a rampup and AB testing library inspired by Etsy\Feature. It is __NOT__ a direct replacement, but it can do everything Etsy's library can and more.
 
 ## API
