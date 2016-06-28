@@ -1,6 +1,6 @@
 # Feature
 
-[![Build Status](https://travis-ci.org/SpartzInc/Feature.svg?branch=master)](https://travis-ci.org/SpartzInc/Feature)
+[![Build Status](https://travis-ci.org/MattStypa/Feature.svg?branch=master)](https://travis-ci.org/SpartzInc/Feature)
 [![Latest Stable Version](https://poser.pugx.org/dose/feature/v/stable)](https://packagist.org/packages/dose/feature)
 [![Total Downloads](https://poser.pugx.org/dose/feature/downloads)](https://packagist.org/packages/dose/feature)
 [![Latest Unstable Version](https://poser.pugx.org/dose/feature/v/unstable)](https://packagist.org/packages/dose/feature)
